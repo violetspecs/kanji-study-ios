@@ -1,0 +1,2140 @@
+[
+    {
+        "character": "党",
+        "meanings": "party, faction, clique",
+        "kunyomi": "なかま,むら",
+        "onyomi": "トウ"
+    },
+    {
+        "character": "村",
+        "meanings": "village, town",
+        "kunyomi": "むら",
+        "onyomi": "ソン"
+    },
+    {
+        "character": "協",
+        "meanings": "co-, cooperation",
+        "onyomi": "キョウ"
+    },
+    {
+        "character": "委",
+        "meanings": "committee, entrust to, leave to, devote, discard",
+        "kunyomi": "ゆだねる",
+        "onyomi": "イ"
+    },
+    {
+        "character": "改",
+        "meanings": "reformation, change, modify, mend, renew, examine, inspect, search",
+        "kunyomi": "あらためる,あらたまる",
+        "onyomi": "カイ"
+    },
+    {
+        "character": "竹",
+        "meanings": "bamboo",
+        "kunyomi": "たけ",
+        "onyomi": "チク"
+    },
+    {
+        "character": "区",
+        "meanings": "ward, district",
+        "onyomi": "ク,オウ,コウ"
+    },
+    {
+        "character": "県",
+        "meanings": "prefecture",
+        "kunyomi": "かける",
+        "onyomi": "ケン"
+    },
+    {
+        "character": "総",
+        "meanings": "general, whole, all, full, total",
+        "kunyomi": "すべて,すべて,ふさ",
+        "onyomi": "ソウ"
+    },
+    {
+        "character": "府",
+        "meanings": "borough, urban prefecture, govt office, representative body, storehouse",
+        "onyomi": "フ"
+    },
+    {
+        "character": "領",
+        "meanings": "jurisdiction, dominion, territory, fief, reign",
+        "kunyomi": "えり",
+        "onyomi": "リョウ"
+    },
+    {
+        "character": "算",
+        "meanings": "calculate, divining, number, abacus, probability",
+        "kunyomi": "そろ",
+        "onyomi": "サン"
+    },
+    {
+        "character": "設",
+        "meanings": "establishment, provision, prepare",
+        "kunyomi": "もうける",
+        "onyomi": "セツ"
+    },
+    {
+        "character": "島",
+        "meanings": "island",
+        "kunyomi": "しま",
+        "onyomi": "トウ"
+    },
+    {
+        "character": "玉",
+        "meanings": "jewel, ball",
+        "kunyomi": "たま,たま-,-だま",
+        "onyomi": "ギョク"
+    },
+    {
+        "character": "軍",
+        "meanings": "army, force, troops, war, battle",
+        "kunyomi": "いくさ",
+        "onyomi": "グン"
+    },
+    {
+        "character": "線",
+        "meanings": "line, track",
+        "kunyomi": "すじ",
+        "onyomi": "セン"
+    },
+    {
+        "character": "森",
+        "meanings": "forest, woods",
+        "kunyomi": "もり",
+        "onyomi": "シン"
+    },
+    {
+        "character": "査",
+        "meanings": "investigate",
+        "onyomi": "サ"
+    },
+    {
+        "character": "各",
+        "meanings": "each, every, either",
+        "kunyomi": "おのおの",
+        "onyomi": "カク"
+    },
+    {
+        "character": "林",
+        "meanings": "grove, forest",
+        "kunyomi": "はやし",
+        "onyomi": "リン"
+    },
+    {
+        "character": "谷",
+        "meanings": "valley",
+        "kunyomi": "たに,きわまる",
+        "onyomi": "コク"
+    },
+    {
+        "character": "団",
+        "meanings": "group, association",
+        "kunyomi": "かたまり,まるい",
+        "onyomi": "ダン,トン"
+    },
+    {
+        "character": "細",
+        "meanings": "dainty, get thin, taper, slender, narrow, detailed, precise",
+        "kunyomi": "ほそい,ほそる,こまか,こまかい",
+        "onyomi": "サイ"
+    },
+    {
+        "character": "丸",
+        "meanings": "round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+        "kunyomi": "まる,まるめる,まるい",
+        "onyomi": "ガン"
+    },
+    {
+        "character": "戸",
+        "meanings": "door, counter for houses, door radical (no. 63)",
+        "kunyomi": "と",
+        "onyomi": "コ"
+    },
+    {
+        "character": "農",
+        "meanings": "agriculture, farmers",
+        "onyomi": "ノウ"
+    },
+    {
+        "character": "州",
+        "meanings": "state, province",
+        "kunyomi": "す",
+        "onyomi": "シュウ,ス"
+    },
+    {
+        "character": "勢",
+        "meanings": "forces, energy, military strength",
+        "kunyomi": "いきおい,はずみ",
+        "onyomi": "セイ,ゼイ"
+    },
+    {
+        "character": "減",
+        "meanings": "dwindle, decrease, reduce, decline, curtail, get hungry",
+        "kunyomi": "へる,へらす",
+        "onyomi": "ゲン"
+    },
+    {
+        "character": "虫",
+        "meanings": "insect, bug, temper",
+        "kunyomi": "むし",
+        "onyomi": "チュウ,キ"
+    },
+    {
+        "character": "門",
+        "meanings": "gate, counter for cannons",
+        "kunyomi": "かど,と",
+        "onyomi": "モン"
+    },
+    {
+        "character": "再",
+        "meanings": "again, twice, second time",
+        "kunyomi": "ふたたび",
+        "onyomi": "サイ,サ"
+    },
+    {
+        "character": "副",
+        "meanings": "vice-, assistant, aide, duplicate, copy",
+        "onyomi": "フク"
+    },
+    {
+        "character": "税",
+        "meanings": "tax, duty",
+        "onyomi": "ゼイ"
+    },
+    {
+        "character": "糸",
+        "meanings": "thread",
+        "kunyomi": "いと",
+        "onyomi": "シ"
+    },
+    {
+        "character": "革",
+        "meanings": "leather, skin, reform, become serious",
+        "kunyomi": "かわ",
+        "onyomi": "カク"
+    },
+    {
+        "character": "羽",
+        "meanings": "feathers, counter for birds, rabbits",
+        "kunyomi": "は,わ,はね",
+        "onyomi": "ウ"
+    },
+    {
+        "character": "営",
+        "meanings": "occupation, camp, perform, build, conduct (business)",
+        "kunyomi": "いとなむ,いとなみ",
+        "onyomi": "エイ"
+    },
+    {
+        "character": "階",
+        "meanings": "storey, stair, counter for storeys of a building",
+        "kunyomi": "きざはし",
+        "onyomi": "カイ"
+    },
+    {
+        "character": "岩",
+        "meanings": "boulder, rock, cliff",
+        "kunyomi": "いわ",
+        "onyomi": "ガン"
+    },
+    {
+        "character": "象",
+        "meanings": "elephant, pattern after, imitate, image, shape, sign (of the times)",
+        "kunyomi": "かたどる",
+        "onyomi": "ショウ,ゾウ"
+    },
+    {
+        "character": "角",
+        "meanings": "angle, corner, square, horn, antlers",
+        "kunyomi": "かど,つの",
+        "onyomi": "カク"
+    },
+    {
+        "character": "比",
+        "meanings": "compare, race, ratio, Philippines",
+        "kunyomi": "くらべる",
+        "onyomi": "ヒ"
+    },
+    {
+        "character": "防",
+        "meanings": "ward off, defend, protect, resist",
+        "kunyomi": "ふせぐ",
+        "onyomi": "ボウ"
+    },
+    {
+        "character": "橋",
+        "meanings": "bridge",
+        "kunyomi": "はし",
+        "onyomi": "キョウ"
+    },
+    {
+        "character": "岸",
+        "meanings": "beach",
+        "kunyomi": "きし",
+        "onyomi": "ガン"
+    },
+    {
+        "character": "星",
+        "meanings": "star, spot, dot, mark",
+        "kunyomi": "ほし,-ぼし",
+        "onyomi": "セイ,ショウ"
+    },
+    {
+        "character": "賞",
+        "meanings": "prize, reward, praise",
+        "kunyomi": "ほめる",
+        "onyomi": "ショウ"
+    },
+    {
+        "character": "辺",
+        "meanings": "environs, boundary, border, vicinity",
+        "kunyomi": "あたり,ほとり,-べ",
+        "onyomi": "ヘン"
+    },
+    {
+        "character": "境",
+        "meanings": "boundary, border, region",
+        "kunyomi": "さかい",
+        "onyomi": "キョウ,ケイ"
+    },
+    {
+        "character": "央",
+        "meanings": "center, middle",
+        "onyomi": "オウ"
+    },
+    {
+        "character": "寺",
+        "meanings": "Buddhist temple",
+        "kunyomi": "てら",
+        "onyomi": "ジ"
+    },
+    {
+        "character": "導",
+        "meanings": "guidance, leading, conduct, usher",
+        "kunyomi": "みちびく",
+        "onyomi": "ドウ"
+    },
+    {
+        "character": "貝",
+        "meanings": "shellfish",
+        "kunyomi": "かい",
+        "onyomi": "バイ"
+    },
+    {
+        "character": "課",
+        "meanings": "chapter, lesson, section, department, division, counter for chapters (of a book)",
+        "onyomi": "カ"
+    },
+    {
+        "character": "極",
+        "meanings": "poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48",
+        "kunyomi": "きわめる,きわまる,きわまり,きわみ,きめる,-ぎめ,きまる",
+        "onyomi": "キョク,ゴク"
+    },
+    {
+        "character": "輸",
+        "meanings": "transport, send, be inferior",
+        "onyomi": "ユ,シュ"
+    },
+    {
+        "character": "根",
+        "meanings": "root, radical, head (pimple)",
+        "kunyomi": "ね,-ね",
+        "onyomi": "コン"
+    },
+    {
+        "character": "量",
+        "meanings": "quantity, measure, weight, amount, consider, estimate, surmise",
+        "kunyomi": "はかる",
+        "onyomi": "リョウ"
+    },
+    {
+        "character": "述",
+        "meanings": "mention, state, speak, relate",
+        "kunyomi": "のべる",
+        "onyomi": "ジュツ"
+    },
+    {
+        "character": "型",
+        "meanings": "mould, type, model",
+        "kunyomi": "かた,-がた",
+        "onyomi": "ケイ"
+    },
+    {
+        "character": "武",
+        "meanings": "warrior, military, chivalry, arms",
+        "kunyomi": "たけ,たけし",
+        "onyomi": "ブ,ム"
+    },
+    {
+        "character": "補",
+        "meanings": "supplement, supply, make good, offset, compensate, assistant, learner",
+        "kunyomi": "おぎなう",
+        "onyomi": "ホ"
+    },
+    {
+        "character": "鉄",
+        "meanings": "iron",
+        "kunyomi": "くろがね",
+        "onyomi": "テツ"
+    },
+    {
+        "character": "額",
+        "meanings": "forehead, tablet, plaque, framed picture, sum, amount, volume",
+        "kunyomi": "ひたい",
+        "onyomi": "ガク"
+    },
+    {
+        "character": "史",
+        "meanings": "history, chronicle",
+        "onyomi": "シ"
+    },
+    {
+        "character": "管",
+        "meanings": "pipe, tube, wind instrument, drunken talk, control, jurisdiction",
+        "kunyomi": "くだ",
+        "onyomi": "カン"
+    },
+    {
+        "character": "油",
+        "meanings": "oil, fat",
+        "kunyomi": "あぶら",
+        "onyomi": "ユ,ユウ"
+    },
+    {
+        "character": "兵",
+        "meanings": "soldier, private, troops, army, warfare, strategy, tactics",
+        "kunyomi": "つわもの",
+        "onyomi": "ヘイ,ヒョウ"
+    },
+    {
+        "character": "植",
+        "meanings": "plant",
+        "kunyomi": "うえる,うわる",
+        "onyomi": "ショク"
+    },
+    {
+        "character": "準",
+        "meanings": "semi-, correspond to, proportionate to, conform, imitate",
+        "kunyomi": "じゅんじる,じゅんずる,なぞらえる,のり,ひとしい,みずもり",
+        "onyomi": "ジュン"
+    },
+    {
+        "character": "倍",
+        "meanings": "double, twice, times, fold",
+        "onyomi": "バイ"
+    },
+    {
+        "character": "造",
+        "meanings": "create, make, structure, physique",
+        "kunyomi": "つくる,つくり,-づくり",
+        "onyomi": "ゾウ"
+    },
+    {
+        "character": "技",
+        "meanings": "skill, art, craft, ability, feat, performance, vocation, arts",
+        "kunyomi": "わざ",
+        "onyomi": "ギ"
+    },
+    {
+        "character": "録",
+        "meanings": "record",
+        "kunyomi": "しるす,とる",
+        "onyomi": "ロク"
+    },
+    {
+        "character": "復",
+        "meanings": "restore, return to, revert, resume",
+        "kunyomi": "また",
+        "onyomi": "フク"
+    },
+    {
+        "character": "省",
+        "meanings": "focus, government ministry, conserve",
+        "kunyomi": "かえりみる,はぶく",
+        "onyomi": "セイ,ショウ"
+    },
+    {
+        "character": "波",
+        "meanings": "waves, billows, Poland",
+        "kunyomi": "なみ",
+        "onyomi": "ハ"
+    },
+    {
+        "character": "移",
+        "meanings": "shift, move, change, drift, catch (cold, fire), pass into",
+        "kunyomi": "うつる,うつす",
+        "onyomi": "イ"
+    },
+    {
+        "character": "周",
+        "meanings": "circumference, circuit, lap",
+        "kunyomi": "まわり",
+        "onyomi": "シュウ"
+    },
+    {
+        "character": "個",
+        "meanings": "individual, counter for articles",
+        "onyomi": "コ,カ"
+    },
+    {
+        "character": "材",
+        "meanings": "lumber, log, timber, wood, materials, ingredients, talent",
+        "onyomi": "ザイ"
+    },
+    {
+        "character": "毛",
+        "meanings": "fur, hair, feather, down",
+        "kunyomi": "け",
+        "onyomi": "モウ"
+    },
+    {
+        "character": "練",
+        "meanings": "practice, gloss, train, drill, polish, refine",
+        "kunyomi": "ねる,ねり",
+        "onyomi": "レン"
+    },
+    {
+        "character": "域",
+        "meanings": "range, region, limits, stage, level",
+        "onyomi": "イキ"
+    },
+    {
+        "character": "競",
+        "meanings": "emulate, compete with, bid, sell at auction, bout, contest, race",
+        "kunyomi": "きそう,せる,くらべる",
+        "onyomi": "キョウ,ケイ"
+    },
+    {
+        "character": "黄",
+        "meanings": "yellow",
+        "kunyomi": "き,こ-",
+        "onyomi": "コウ,オウ"
+    },
+    {
+        "character": "池",
+        "meanings": "pond, cistern, pool, reservoir",
+        "kunyomi": "いけ",
+        "onyomi": "チ"
+    },
+    {
+        "character": "血",
+        "meanings": "blood",
+        "kunyomi": "ち",
+        "onyomi": "ケツ"
+    },
+    {
+        "character": "雲",
+        "meanings": "cloud",
+        "kunyomi": "くも,-ぐも",
+        "onyomi": "ウン"
+    },
+    {
+        "character": "温",
+        "meanings": "warm",
+        "kunyomi": "あたたか,あたたかい,あたたまる,あたためる,ぬく",
+        "onyomi": "オン"
+    },
+    {
+        "character": "歴",
+        "meanings": "curriculum, continuation, passage of time",
+        "onyomi": "レキ,レッキ"
+    },
+    {
+        "character": "担",
+        "meanings": "shouldering, carry, raise, bear",
+        "kunyomi": "かつぐ,になう",
+        "onyomi": "タン"
+    },
+    {
+        "character": "庫",
+        "meanings": "warehouse, storehouse",
+        "kunyomi": "くら",
+        "onyomi": "コ,ク"
+    },
+    {
+        "character": "坂",
+        "meanings": "slope, incline, hill",
+        "kunyomi": "さか",
+        "onyomi": "ハン"
+    },
+    {
+        "character": "低",
+        "meanings": "lower, short, humble",
+        "kunyomi": "ひくい,ひくめる,ひくまる",
+        "onyomi": "テイ"
+    },
+    {
+        "character": "接",
+        "meanings": "touch, contact, adjoin, piece together",
+        "kunyomi": "つぐ",
+        "onyomi": "セツ,ショウ"
+    },
+    {
+        "character": "航",
+        "meanings": "navigate, sail, cruise, fly",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "効",
+        "meanings": "merit, efficacy, efficiency, benefit",
+        "kunyomi": "きく,ききめ,ならう",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "児",
+        "meanings": "newborn babe, child, young of animals",
+        "kunyomi": "こ,-こ,-っこ",
+        "onyomi": "ジ,ニ,ゲイ"
+    },
+    {
+        "character": "印",
+        "meanings": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+        "kunyomi": "しるし,-じるし,しるす",
+        "onyomi": "イン"
+    },
+    {
+        "character": "旧",
+        "meanings": "old times, old things, old friend, former, ex-",
+        "kunyomi": "ふるい,もと",
+        "onyomi": "キュウ"
+    },
+    {
+        "character": "脳",
+        "meanings": "brain, memory",
+        "kunyomi": "のうずる",
+        "onyomi": "ノウ,ドウ"
+    },
+    {
+        "character": "輪",
+        "meanings": "wheel, ring, circle, link, loop, counter for wheels and flowers",
+        "kunyomi": "わ",
+        "onyomi": "リン"
+    },
+    {
+        "character": "板",
+        "meanings": "plank, board, plate, stage",
+        "kunyomi": "いた",
+        "onyomi": "ハン,バン"
+    },
+    {
+        "character": "蔵",
+        "meanings": "storehouse, hide, own, have, possess",
+        "kunyomi": "くら,おさめる,かくれる",
+        "onyomi": "ゾウ,ソウ"
+    },
+    {
+        "character": "清",
+        "meanings": "pure, purify, cleanse, exorcise, Manchu dynasty",
+        "kunyomi": "きよい,きよまる,きよめる",
+        "onyomi": "セイ,ショウ,シン"
+    },
+    {
+        "character": "億",
+        "meanings": "hundred million, 10**8",
+        "onyomi": "オク"
+    },
+    {
+        "character": "弱",
+        "meanings": "weak, frail",
+        "kunyomi": "よわい,よわる,よわまる,よわめる",
+        "onyomi": "ジャク"
+    },
+    {
+        "character": "芸",
+        "meanings": "technique, art, craft, performance, acting, trick, stunt",
+        "kunyomi": "うえる,のり,わざ",
+        "onyomi": "ゲイ,ウン"
+    },
+    {
+        "character": "券",
+        "meanings": "ticket",
+        "onyomi": "ケン"
+    },
+    {
+        "character": "停",
+        "meanings": "halt, stopping",
+        "kunyomi": "とめる,とまる",
+        "onyomi": "テイ"
+    },
+    {
+        "character": "陸",
+        "meanings": "land, six",
+        "kunyomi": "おか",
+        "onyomi": "リク,ロク"
+    },
+    {
+        "character": "編",
+        "meanings": "compilation, knit, plait, braid, twist, editing, completed poem, part of a book",
+        "kunyomi": "あむ,-あみ",
+        "onyomi": "ヘン"
+    },
+    {
+        "character": "章",
+        "meanings": "badge, chapter, composition, poem, design",
+        "onyomi": "ショウ"
+    },
+    {
+        "character": "帯",
+        "meanings": "sash, belt, obi, zone, region",
+        "kunyomi": "おびる,おび",
+        "onyomi": "タイ"
+    },
+    {
+        "character": "固",
+        "meanings": "harden, set, clot, curdle",
+        "kunyomi": "かためる,かたまる,かたまり,かたい",
+        "onyomi": "コ"
+    },
+    {
+        "character": "針",
+        "meanings": "needle, pin, staple, stinger",
+        "kunyomi": "はり",
+        "onyomi": "シン"
+    },
+    {
+        "character": "採",
+        "meanings": "pick, take, fetch, take up",
+        "kunyomi": "とる",
+        "onyomi": "サイ"
+    },
+    {
+        "character": "専",
+        "meanings": "specialty, exclusive, mainly, solely",
+        "kunyomi": "もっぱら",
+        "onyomi": "セン"
+    },
+    {
+        "character": "秒",
+        "meanings": "second (1/60 minute)",
+        "onyomi": "ビョウ"
+    },
+    {
+        "character": "囲",
+        "meanings": "surround, besiege, store, paling, enclosure, encircle, preserve, keep",
+        "kunyomi": "かこむ,かこう,かこい",
+        "onyomi": "イ"
+    },
+    {
+        "character": "卒",
+        "meanings": "graduate, soldier, private, die",
+        "kunyomi": "そっする,おえる,おわる,ついに,にわか",
+        "onyomi": "ソツ,シュツ"
+    },
+    {
+        "character": "短",
+        "meanings": "short, brevity, fault, defect, weak point",
+        "kunyomi": "みじかい",
+        "onyomi": "タン"
+    },
+    {
+        "character": "順",
+        "meanings": "obey, order, turn, right, docility, occasion",
+        "onyomi": "ジュン"
+    },
+    {
+        "character": "患",
+        "meanings": "afflicted, disease, suffer from, be ill",
+        "kunyomi": "わずらう",
+        "onyomi": "カン"
+    },
+    {
+        "character": "令",
+        "meanings": "orders, laws, command, decree, good",
+        "onyomi": "レイ"
+    },
+    {
+        "character": "麦",
+        "meanings": "barley, wheat",
+        "kunyomi": "むぎ",
+        "onyomi": "バク"
+    },
+    {
+        "character": "貿",
+        "meanings": "trade, exchange",
+        "onyomi": "ボウ"
+    },
+    {
+        "character": "講",
+        "meanings": "lecture, club, association",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "皮",
+        "meanings": "pelt, skin, hide, leather, skin radical (no. 107)",
+        "kunyomi": "かわ",
+        "onyomi": "ヒ"
+    },
+    {
+        "character": "貨",
+        "meanings": "freight, goods, property",
+        "kunyomi": "たから",
+        "onyomi": "カ"
+    },
+    {
+        "character": "河",
+        "meanings": "river",
+        "kunyomi": "かわ",
+        "onyomi": "カ"
+    },
+    {
+        "character": "柱",
+        "meanings": "pillar, post, cylinder, support",
+        "kunyomi": "はしら",
+        "onyomi": "チュウ"
+    },
+    {
+        "character": "欧",
+        "meanings": "Europe",
+        "kunyomi": "うたう,はく",
+        "onyomi": "オウ"
+    },
+    {
+        "character": "季",
+        "meanings": "seasons",
+        "onyomi": "キ"
+    },
+    {
+        "character": "祭",
+        "meanings": "ritual, offer prayers, celebrate, deify, enshrine, worship",
+        "kunyomi": "まつる,まつり,まつり",
+        "onyomi": "サイ"
+    },
+    {
+        "character": "筆",
+        "meanings": "writing brush, writing, painting brush, handwriting",
+        "kunyomi": "ふで",
+        "onyomi": "ヒツ"
+    },
+    {
+        "character": "禁",
+        "meanings": "prohibition, ban, forbid",
+        "onyomi": "キン"
+    },
+    {
+        "character": "童",
+        "meanings": "juvenile, child",
+        "kunyomi": "わらべ",
+        "onyomi": "ドウ"
+    },
+    {
+        "character": "逆",
+        "meanings": "inverted, reverse, opposite, wicked",
+        "kunyomi": "さか,さかさ,さからう",
+        "onyomi": "ギャク,ゲキ"
+    },
+    {
+        "character": "香",
+        "meanings": "incense, smell, perfume",
+        "kunyomi": "か,かおり,かおる",
+        "onyomi": "コウ,キョウ"
+    },
+    {
+        "character": "久",
+        "meanings": "long time, old story",
+        "kunyomi": "ひさしい",
+        "onyomi": "キュウ,ク"
+    },
+    {
+        "character": "被",
+        "meanings": "incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving",
+        "kunyomi": "こうむる,おおう,かぶる,かぶせる",
+        "onyomi": "ヒ"
+    },
+    {
+        "character": "暴",
+        "meanings": "outburst, rave, fret, force, violence, cruelty, outrage",
+        "kunyomi": "あばく,あばれる",
+        "onyomi": "ボウ,バク"
+    },
+    {
+        "character": "底",
+        "meanings": "bottom, sole, depth, bottom price, base, kind, sort",
+        "kunyomi": "そこ",
+        "onyomi": "テイ"
+    },
+    {
+        "character": "緑",
+        "meanings": "green",
+        "kunyomi": "みどり",
+        "onyomi": "リョク,ロク"
+    },
+    {
+        "character": "軽",
+        "meanings": "lightly, trifling, unimportant",
+        "kunyomi": "かるい,かろやか,かろんじる",
+        "onyomi": "ケイ,キョウ,キン"
+    },
+    {
+        "character": "均",
+        "meanings": "level, average",
+        "kunyomi": "ならす",
+        "onyomi": "キン"
+    },
+    {
+        "character": "希",
+        "meanings": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+        "kunyomi": "まれ,こいねがう",
+        "onyomi": "キ,ケ"
+    },
+    {
+        "character": "圧",
+        "meanings": "pressure, push, overwhelm, oppress, dominate",
+        "kunyomi": "おす,へす,おさえる,おさえる",
+        "onyomi": "アツ,エン,オウ"
+    },
+    {
+        "character": "並",
+        "meanings": "row, and, besides, as well as, line up, rank with, rival, equal",
+        "kunyomi": "なみ,なみ,ならべる,ならぶ,ならびに",
+        "onyomi": "ヘイ,ホウ"
+    },
+    {
+        "character": "籍",
+        "meanings": "enroll, domiciliary register, membership",
+        "onyomi": "セキ"
+    },
+    {
+        "character": "仲",
+        "meanings": "go-between, relationship",
+        "kunyomi": "なか",
+        "onyomi": "チュウ"
+    },
+    {
+        "character": "栄",
+        "meanings": "flourish, prosperity, honor, glory, splendor",
+        "kunyomi": "さかえる,はえ,-ばえ,はえる,え",
+        "onyomi": "エイ,ヨウ"
+    },
+    {
+        "character": "札",
+        "meanings": "tag, paper money, counter for bonds, placard, bid",
+        "kunyomi": "ふだ",
+        "onyomi": "サツ"
+    },
+    {
+        "character": "荷",
+        "meanings": "baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",
+        "kunyomi": "に",
+        "onyomi": "カ"
+    },
+    {
+        "character": "含",
+        "meanings": "contain, include, hold in the mouth, bear in mind, understand, cherish",
+        "kunyomi": "ふくむ,ふくめる",
+        "onyomi": "ガン"
+    },
+    {
+        "character": "則",
+        "meanings": "rule, follow, based on, model after",
+        "kunyomi": "のっとる",
+        "onyomi": "ソク"
+    },
+    {
+        "character": "将",
+        "meanings": "leader, commander, general, admiral, or, and again, soon, from now on, just about",
+        "kunyomi": "まさに,はた,まさ,ひきいる,もって",
+        "onyomi": "ショウ,ソウ"
+    },
+    {
+        "character": "測",
+        "meanings": "fathom, plan, scheme, measure",
+        "kunyomi": "はかる",
+        "onyomi": "ソク"
+    },
+    {
+        "character": "豊",
+        "meanings": "bountiful, excellent, rich",
+        "kunyomi": "ゆたか,とよ",
+        "onyomi": "ホウ,ブ"
+    },
+    {
+        "character": "跡",
+        "meanings": "tracks, mark, print, impression",
+        "kunyomi": "あと",
+        "onyomi": "セキ"
+    },
+    {
+        "character": "包",
+        "meanings": "wrap, pack up, cover, conceal",
+        "kunyomi": "つつむ,くるむ",
+        "onyomi": "ホウ"
+    },
+    {
+        "character": "厚",
+        "meanings": "thick, heavy, rich, kind, cordial, brazen, shameless",
+        "kunyomi": "あつい,あか",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "略",
+        "meanings": "abbreviation, omission, outline, shorten, capture, plunder",
+        "kunyomi": "ほぼ,はぶく,おかす,おさめる,はかりごと,はかる",
+        "onyomi": "リャク"
+    },
+    {
+        "character": "承",
+        "meanings": "acquiesce, hear, listen to, be informed, receive",
+        "kunyomi": "うけたまわる,うける",
+        "onyomi": "ショウ,ジョウ"
+    },
+    {
+        "character": "況",
+        "meanings": "condition, situation",
+        "kunyomi": "まして,いわんや,おもむき",
+        "onyomi": "キョウ"
+    },
+    {
+        "character": "炭",
+        "meanings": "charcoal, coal",
+        "kunyomi": "すみ",
+        "onyomi": "タン"
+    },
+    {
+        "character": "焼",
+        "meanings": "bake, burning",
+        "kunyomi": "やく,やき,やき-,-やき,やける",
+        "onyomi": "ショウ"
+    },
+    {
+        "character": "装",
+        "meanings": "attire, dress, pretend, disguise, profess",
+        "kunyomi": "よそおう,よそおい",
+        "onyomi": "ソウ,ショウ"
+    },
+    {
+        "character": "諸",
+        "meanings": "various, many, several, together",
+        "kunyomi": "もろ",
+        "onyomi": "ショ"
+    },
+    {
+        "character": "劇",
+        "meanings": "drama, play",
+        "onyomi": "ゲキ"
+    },
+    {
+        "character": "版",
+        "meanings": "printing block, printing plate, edition, impression, label",
+        "onyomi": "ハン"
+    },
+    {
+        "character": "照",
+        "meanings": "illuminate, shine, compare, bashful",
+        "kunyomi": "てる,てらす,てれる",
+        "onyomi": "ショウ"
+    },
+    {
+        "character": "湖",
+        "meanings": "lake",
+        "kunyomi": "みずうみ",
+        "onyomi": "コ"
+    },
+    {
+        "character": "損",
+        "meanings": "damage, loss, disadvantage, hurt, injure",
+        "kunyomi": "そこなう,そこなう,-そこなう,そこねる,-そこねる",
+        "onyomi": "ソン"
+    },
+    {
+        "character": "湯",
+        "meanings": "hot water, bath, hot spring",
+        "kunyomi": "ゆ",
+        "onyomi": "トウ"
+    },
+    {
+        "character": "仏",
+        "meanings": "Buddha, the dead, France",
+        "kunyomi": "ほとけ",
+        "onyomi": "ブツ,フツ"
+    },
+    {
+        "character": "績",
+        "meanings": "exploits, achievements, unreeling cocoons",
+        "onyomi": "セキ"
+    },
+    {
+        "character": "築",
+        "meanings": "fabricate, build, construct",
+        "kunyomi": "きずく",
+        "onyomi": "チク"
+    },
+    {
+        "character": "混",
+        "meanings": "mix, blend, confuse",
+        "kunyomi": "まじる,-まじり,まざる,まぜる,こむ",
+        "onyomi": "コン"
+    },
+    {
+        "character": "永",
+        "meanings": "eternity, long, lengthy",
+        "kunyomi": "ながい",
+        "onyomi": "エイ"
+    },
+    {
+        "character": "刊",
+        "meanings": "publish, carve, engrave",
+        "onyomi": "カン"
+    },
+    {
+        "character": "像",
+        "meanings": "statue, picture, image, figure, portrait",
+        "onyomi": "ゾウ"
+    },
+    {
+        "character": "署",
+        "meanings": "signature, govt office, police station",
+        "onyomi": "ショ"
+    },
+    {
+        "character": "氷",
+        "meanings": "icicle, ice, hail, freeze, congeal",
+        "kunyomi": "こおり,ひ,こおる",
+        "onyomi": "ヒョウ"
+    },
+    {
+        "character": "湾",
+        "meanings": "gulf, bay, inlet",
+        "kunyomi": "いりえ",
+        "onyomi": "ワン"
+    },
+    {
+        "character": "漁",
+        "meanings": "fishing, fishery",
+        "kunyomi": "あさる",
+        "onyomi": "ギョ,リョウ"
+    },
+    {
+        "character": "布",
+        "meanings": "linen, cloth, spread, distribute",
+        "kunyomi": "ぬの,しく,きれ",
+        "onyomi": "フ,ホ"
+    },
+    {
+        "character": "貯",
+        "meanings": "savings, store, lay in, keep, wear mustache",
+        "kunyomi": "ためる,たくわえる",
+        "onyomi": "チョ"
+    },
+    {
+        "character": "拾",
+        "meanings": "pick up, gather, find, go on foot, ten",
+        "kunyomi": "ひろう",
+        "onyomi": "シュウ,ジュウ"
+    },
+    {
+        "character": "延",
+        "meanings": "prolong, stretching",
+        "kunyomi": "のびる,のべる,のべ,のばす",
+        "onyomi": "エン"
+    },
+    {
+        "character": "乱",
+        "meanings": "riot, war, disorder, disturb",
+        "kunyomi": "みだれる,みだる,みだす,みだ,おさめる,わたる",
+        "onyomi": "ラン,ロン"
+    },
+    {
+        "character": "訓",
+        "meanings": "instruction, Japanese character reading, explanation, read",
+        "kunyomi": "おしえる,よむ,くんずる",
+        "onyomi": "クン,キン"
+    },
+    {
+        "character": "浴",
+        "meanings": "bathe, be favored with, bask in",
+        "kunyomi": "あびる,あびせる",
+        "onyomi": "ヨク"
+    },
+    {
+        "character": "複",
+        "meanings": "duplicate, double, compound, multiple",
+        "onyomi": "フク"
+    },
+    {
+        "character": "塩",
+        "meanings": "salt",
+        "kunyomi": "しお",
+        "onyomi": "エン"
+    },
+    {
+        "character": "兆",
+        "meanings": "portent, 10**12, trillion, sign, omen, symptoms",
+        "kunyomi": "きざす,きざし",
+        "onyomi": "チョウ"
+    },
+    {
+        "character": "捜",
+        "meanings": "search, look for, locate",
+        "kunyomi": "さがす",
+        "onyomi": "ソウ,シュ,シュウ"
+    },
+    {
+        "character": "祝",
+        "meanings": "celebrate, congratulate",
+        "kunyomi": "いわう",
+        "onyomi": "シュク,シュウ"
+    },
+    {
+        "character": "燃",
+        "meanings": "burn, blaze, glow",
+        "kunyomi": "もえる,もやす,もす",
+        "onyomi": "ネン"
+    },
+    {
+        "character": "庁",
+        "meanings": "government office",
+        "kunyomi": "やくしょ",
+        "onyomi": "チョウ,テイ"
+    },
+    {
+        "character": "城",
+        "meanings": "castle",
+        "kunyomi": "しろ",
+        "onyomi": "ジョウ,セイ"
+    },
+    {
+        "character": "超",
+        "meanings": "transcend, super-, ultra-",
+        "kunyomi": "こえる,こす",
+        "onyomi": "チョウ"
+    },
+    {
+        "character": "療",
+        "meanings": "heal, cure",
+        "onyomi": "リョウ"
+    },
+    {
+        "character": "層",
+        "meanings": "stratum, social class, layer, story, floor",
+        "onyomi": "ソウ"
+    },
+    {
+        "character": "衣",
+        "meanings": "garment, clothes, dressing",
+        "kunyomi": "ころも,きぬ,-ぎ",
+        "onyomi": "イ,エ"
+    },
+    {
+        "character": "裏",
+        "meanings": "back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side",
+        "kunyomi": "うら",
+        "onyomi": "リ"
+    },
+    {
+        "character": "鼻",
+        "meanings": "nose, snout",
+        "kunyomi": "はな",
+        "onyomi": "ビ"
+    },
+    {
+        "character": "預",
+        "meanings": "deposit, custody, leave with, entrust to",
+        "kunyomi": "あずける,あずかる",
+        "onyomi": "ヨ"
+    },
+    {
+        "character": "介",
+        "meanings": "jammed in, shellfish, mediate, concern oneself with",
+        "onyomi": "カイ"
+    },
+    {
+        "character": "臣",
+        "meanings": "retainer, subject",
+        "onyomi": "シン,ジン"
+    },
+    {
+        "character": "浅",
+        "meanings": "shallow, superficial, frivolous, wretched, shameful",
+        "kunyomi": "あさい",
+        "onyomi": "セン"
+    },
+    {
+        "character": "販",
+        "meanings": "marketing, sell, trade",
+        "onyomi": "ハン"
+    },
+    {
+        "character": "群",
+        "meanings": "flock, group, crowd, herd, swarm, cluster",
+        "kunyomi": "むれる,むれ,むら,むらがる",
+        "onyomi": "グン"
+    },
+    {
+        "character": "著",
+        "meanings": "renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work",
+        "kunyomi": "あらわす,いちじるしい",
+        "onyomi": "チョ,チャク"
+    },
+    {
+        "character": "誌",
+        "meanings": "document, records",
+        "onyomi": "シ"
+    },
+    {
+        "character": "幅",
+        "meanings": "hanging scroll, width",
+        "kunyomi": "はば",
+        "onyomi": "フク"
+    },
+    {
+        "character": "般",
+        "meanings": "carrier, carry, all, general, sort, kind",
+        "onyomi": "ハン"
+    },
+    {
+        "character": "勇",
+        "meanings": "courage, cheer up, be in high spirits, bravery, heroism",
+        "kunyomi": "いさむ",
+        "onyomi": "ユウ"
+    },
+    {
+        "character": "械",
+        "meanings": "contraption, fetter, machine, instrument",
+        "kunyomi": "かせ",
+        "onyomi": "カイ"
+    },
+    {
+        "character": "宇",
+        "meanings": "eaves, roof, house, heaven",
+        "onyomi": "ウ"
+    },
+    {
+        "character": "快",
+        "meanings": "cheerful, pleasant, agreeable, comfortable",
+        "kunyomi": "こころよい",
+        "onyomi": "カイ"
+    },
+    {
+        "character": "刷",
+        "meanings": "printing, print, brush",
+        "kunyomi": "する,-ずり,-ずり,はく",
+        "onyomi": "サツ"
+    },
+    {
+        "character": "皿",
+        "meanings": "dish, a helping, plate",
+        "kunyomi": "さら",
+        "onyomi": "ベイ"
+    },
+    {
+        "character": "枚",
+        "meanings": "sheet of..., counter for flat thin objects or sheets",
+        "onyomi": "マイ,バイ"
+    },
+    {
+        "character": "換",
+        "meanings": "interchange, period, change, convert, replace, renew",
+        "kunyomi": "かえる,-かえる,かわる",
+        "onyomi": "カン"
+    },
+    {
+        "character": "郵",
+        "meanings": "mail, stagecoach stop",
+        "onyomi": "ユウ"
+    },
+    {
+        "character": "孫",
+        "meanings": "grandchild, descendants",
+        "kunyomi": "まご",
+        "onyomi": "ソン"
+    },
+    {
+        "character": "占",
+        "meanings": "fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+        "kunyomi": "しめる,うらなう",
+        "onyomi": "セン"
+    },
+    {
+        "character": "骨",
+        "meanings": "skeleton, bone, remains, frame",
+        "kunyomi": "ほね",
+        "onyomi": "コツ"
+    },
+    {
+        "character": "届",
+        "meanings": "deliver, reach, arrive, report, notify, forward",
+        "kunyomi": "とどける,-とどけ,とどく",
+        "onyomi": "カイ"
+    },
+    {
+        "character": "巻",
+        "meanings": "scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)",
+        "kunyomi": "まく,まき,まき",
+        "onyomi": "カン,ケン"
+    },
+    {
+        "character": "毒",
+        "meanings": "poison, virus, venom, germ, harm, injury, spite",
+        "onyomi": "ドク"
+    },
+    {
+        "character": "伸",
+        "meanings": "expand, stretch, extend, lengthen, increase",
+        "kunyomi": "のびる,のばす,のべる,のす",
+        "onyomi": "シン"
+    },
+    {
+        "character": "爆",
+        "meanings": "bomb, burst open, pop, split",
+        "kunyomi": "はぜる",
+        "onyomi": "バク"
+    },
+    {
+        "character": "簡",
+        "meanings": "simplicity, brevity",
+        "kunyomi": "えらぶ,ふだ",
+        "onyomi": "カン,ケン"
+    },
+    {
+        "character": "粉",
+        "meanings": "flour, powder, dust",
+        "kunyomi": "デシメートル,こ,こな",
+        "onyomi": "フン"
+    },
+    {
+        "character": "臓",
+        "meanings": "entrails, viscera, bowels",
+        "kunyomi": "はらわた",
+        "onyomi": "ゾウ"
+    },
+    {
+        "character": "律",
+        "meanings": "rhythm, law, regulation, gauge, control",
+        "onyomi": "リツ,リチ,レツ"
+    },
+    {
+        "character": "液",
+        "meanings": "fluid, liquid, juice, sap, secretion",
+        "onyomi": "エキ"
+    },
+    {
+        "character": "普",
+        "meanings": "universal, wide(ly), generally, Prussia",
+        "kunyomi": "あまねく,あまねし",
+        "onyomi": "フ"
+    },
+    {
+        "character": "瓶",
+        "meanings": "bottle, vial, jar, jug, vat, urn",
+        "kunyomi": "かめ,へい",
+        "onyomi": "ビン"
+    },
+    {
+        "character": "齢",
+        "meanings": "age",
+        "kunyomi": "よわい,とし",
+        "onyomi": "レイ"
+    },
+    {
+        "character": "缶",
+        "meanings": "tin can, container, jar radical (no. 121)",
+        "kunyomi": "かま",
+        "onyomi": "カン"
+    },
+    {
+        "character": "隻",
+        "meanings": "vessels, counter for ships, fish, birds, arrows, one of a pair",
+        "onyomi": "セキ"
+    },
+    {
+        "character": "純",
+        "meanings": "genuine, purity, innocence, net (profit)",
+        "onyomi": "ジュン"
+    },
+    {
+        "character": "了",
+        "meanings": "complete, finish",
+        "onyomi": "リョウ"
+    },
+    {
+        "character": "翌",
+        "meanings": "the following, next",
+        "onyomi": "ヨク"
+    },
+    {
+        "character": "灯",
+        "meanings": "lamp, a light, light, counter for lights",
+        "kunyomi": "ひ,ほ-,ともしび,ともす,あかり",
+        "onyomi": "トウ"
+    },
+    {
+        "character": "絡",
+        "meanings": "entwine, coil around, get caught in",
+        "kunyomi": "からむ,からまる",
+        "onyomi": "ラク"
+    },
+    {
+        "character": "片",
+        "meanings": "one-sided, leaf, sheet, right-side kata radical (no. 91)",
+        "kunyomi": "かた-,かた",
+        "onyomi": "ヘン"
+    },
+    {
+        "character": "敬",
+        "meanings": "awe, respect, honor, revere",
+        "kunyomi": "うやまう",
+        "onyomi": "ケイ,キョウ"
+    },
+    {
+        "character": "募",
+        "meanings": "recruit, campaign, gather (contributions), enlist, grow violent",
+        "kunyomi": "つのる",
+        "onyomi": "ボ"
+    },
+    {
+        "character": "泉",
+        "meanings": "spring, fountain",
+        "kunyomi": "いずみ",
+        "onyomi": "セン"
+    },
+    {
+        "character": "胃",
+        "meanings": "stomach, paunch, crop, craw",
+        "onyomi": "イ"
+    },
+    {
+        "character": "昇",
+        "meanings": "rise up",
+        "kunyomi": "のぼる",
+        "onyomi": "ショウ"
+    },
+    {
+        "character": "宝",
+        "meanings": "treasure, wealth, valuables",
+        "kunyomi": "たから",
+        "onyomi": "ホウ"
+    },
+    {
+        "character": "胸",
+        "meanings": "bosom, breast, chest, heart, feelings",
+        "kunyomi": "むね,むな-",
+        "onyomi": "キョウ"
+    },
+    {
+        "character": "砂",
+        "meanings": "sand",
+        "kunyomi": "すな",
+        "onyomi": "サ,シャ"
+    },
+    {
+        "character": "鉱",
+        "meanings": "mineral, ore",
+        "kunyomi": "あらがね",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "枝",
+        "meanings": "bough, branch, twig, limb, counter for branches",
+        "kunyomi": "えだ",
+        "onyomi": "シ"
+    },
+    {
+        "character": "尊",
+        "meanings": "revered, valuable, precious, noble, exalted",
+        "kunyomi": "たっとい,とうとい,たっとぶ,とうとぶ",
+        "onyomi": "ソン"
+    },
+    {
+        "character": "巨",
+        "meanings": "gigantic, big, large, great",
+        "onyomi": "キョ"
+    },
+    {
+        "character": "震",
+        "meanings": "quake, shake, tremble, quiver, shiver",
+        "kunyomi": "ふるう,ふるえる",
+        "onyomi": "シン"
+    },
+    {
+        "character": "触",
+        "meanings": "contact, touch, feel, hit, proclaim, announce, conflict",
+        "kunyomi": "ふれる,さわる,さわ",
+        "onyomi": "ショク"
+    },
+    {
+        "character": "依",
+        "meanings": "reliant, depend on, consequently, therefore, due to",
+        "kunyomi": "よる",
+        "onyomi": "イ,エ"
+    },
+    {
+        "character": "汚",
+        "meanings": "dirty, pollute, disgrace, rape, defile",
+        "kunyomi": "けがす,けがれる,けがらわしい,よごす,よごれる,きたない",
+        "onyomi": "オ"
+    },
+    {
+        "character": "幼",
+        "meanings": "infancy, childhood",
+        "kunyomi": "おさない",
+        "onyomi": "ヨウ"
+    },
+    {
+        "character": "綿",
+        "meanings": "cotton",
+        "kunyomi": "わた",
+        "onyomi": "メン"
+    },
+    {
+        "character": "傾",
+        "meanings": "lean, incline, tilt, trend, wane, sink, ruin, bias",
+        "kunyomi": "かたむく,かたむける,かたぶく,かたげる,かしげる",
+        "onyomi": "ケイ"
+    },
+    {
+        "character": "銅",
+        "meanings": "copper",
+        "kunyomi": "あかがね",
+        "onyomi": "ドウ"
+    },
+    {
+        "character": "捨",
+        "meanings": "discard, throw away, abandon, resign, reject, sacrifice",
+        "kunyomi": "すてる",
+        "onyomi": "シャ"
+    },
+    {
+        "character": "駐",
+        "meanings": "stop-over, reside in, resident",
+        "onyomi": "チュウ"
+    },
+    {
+        "character": "紹",
+        "meanings": "introduce, inherit, help",
+        "onyomi": "ショウ"
+    },
+    {
+        "character": "乳",
+        "meanings": "milk, breasts",
+        "kunyomi": "ちち,ち",
+        "onyomi": "ニュウ"
+    },
+    {
+        "character": "紅",
+        "meanings": "crimson, deep red",
+        "kunyomi": "べに,くれない,あかい",
+        "onyomi": "コウ,ク"
+    },
+    {
+        "character": "雇",
+        "meanings": "employ, hire",
+        "kunyomi": "やとう",
+        "onyomi": "コ"
+    },
+    {
+        "character": "替",
+        "meanings": "exchange, spare, substitute, per-",
+        "kunyomi": "かえる,かえ-,かわる",
+        "onyomi": "タイ"
+    },
+    {
+        "character": "耕",
+        "meanings": "till, plow, cultivate",
+        "kunyomi": "たがやす",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "冊",
+        "meanings": "tome, counter for books, volume",
+        "kunyomi": "ふみ",
+        "onyomi": "サツ,サク"
+    },
+    {
+        "character": "菜",
+        "meanings": "vegetable, side dish, greens",
+        "kunyomi": "な",
+        "onyomi": "サイ"
+    },
+    {
+        "character": "贈",
+        "meanings": "presents, send, give to, award to, confer on, presenting something",
+        "kunyomi": "おくる",
+        "onyomi": "ゾウ,ソウ"
+    },
+    {
+        "character": "卵",
+        "meanings": "egg, ovum, spawn, roe",
+        "kunyomi": "たまご",
+        "onyomi": "ラン"
+    },
+    {
+        "character": "薄",
+        "meanings": "dilute, thin, weak (tea), pampas grass",
+        "kunyomi": "うすい,うす-,-うす,うすめる,うすまる,うすらぐ,うすら-,うすれる,すすき",
+        "onyomi": "ハク"
+    },
+    {
+        "character": "干",
+        "meanings": "dry, parch, ebb, recede, interfere, intercede",
+        "kunyomi": "ほす,ほし-,-ぼし,ひる",
+        "onyomi": "カン"
+    },
+    {
+        "character": "奥",
+        "meanings": "heart, interior",
+        "kunyomi": "おく,おくまる,くま",
+        "onyomi": "オウ"
+    },
+    {
+        "character": "詰",
+        "meanings": "packed, close, pressed, reprove, rebuke, blame",
+        "kunyomi": "つめる,つめ,-づめ,つまる,つむ",
+        "onyomi": "キツ,キチ"
+    },
+    {
+        "character": "双",
+        "meanings": "pair, set, comparison, counter for pairs",
+        "kunyomi": "ふた,たぐい,ならぶ,ふたつ",
+        "onyomi": "ソウ"
+    },
+    {
+        "character": "刺",
+        "meanings": "thorn, pierce, stab, prick, sting, calling card",
+        "kunyomi": "さす,ささる,さし,さし,とげ",
+        "onyomi": "シ"
+    },
+    {
+        "character": "拝",
+        "meanings": "worship, adore, pray to",
+        "kunyomi": "おがむ,おろがむ",
+        "onyomi": "ハイ"
+    },
+    {
+        "character": "悩",
+        "meanings": "trouble, worry, in pain, distress, illness",
+        "kunyomi": "なやむ,なやます,なやましい,なやみ",
+        "onyomi": "ノウ"
+    },
+    {
+        "character": "棒",
+        "meanings": "rod, stick, cane, pole, club, line",
+        "onyomi": "ボウ"
+    },
+    {
+        "character": "荒",
+        "meanings": "laid waste, rough, rude, wild",
+        "kunyomi": "あらい,あら-,あれる,あらす,-あらし,すさむ",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "硬",
+        "meanings": "stiff, hard",
+        "kunyomi": "かたい",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "埋",
+        "meanings": "bury, be filled up, embedded",
+        "kunyomi": "うめる,うまる,うもれる,うずめる,うずまる,いける",
+        "onyomi": "マイ"
+    },
+    {
+        "character": "袋",
+        "meanings": "sack, bag, pouch",
+        "kunyomi": "ふくろ",
+        "onyomi": "タイ,ダイ"
+    },
+    {
+        "character": "封",
+        "meanings": "seal, closing",
+        "onyomi": "フウ,ホウ"
+    },
+    {
+        "character": "賢",
+        "meanings": "intelligent, wise, wisdom, cleverness",
+        "kunyomi": "かしこい",
+        "onyomi": "ケン"
+    },
+    {
+        "character": "腕",
+        "meanings": "arm, ability, talent",
+        "kunyomi": "うで",
+        "onyomi": "ワン"
+    },
+    {
+        "character": "蒸",
+        "meanings": "steam, heat, sultry, foment, get musty",
+        "kunyomi": "むす,むれる,むらす",
+        "onyomi": "ジョウ,セイ"
+    },
+    {
+        "character": "床",
+        "meanings": "bed, counter for beds, floor, padding, tatami",
+        "kunyomi": "とこ,ゆか",
+        "onyomi": "ショウ"
+    },
+    {
+        "character": "柔",
+        "meanings": "tender, weakness, gentleness, softness",
+        "kunyomi": "やわらか,やわらかい,やわ,やわら",
+        "onyomi": "ジュウ,ニュウ"
+    },
+    {
+        "character": "殿",
+        "meanings": "Mr., hall, mansion, palace, temple, lord",
+        "kunyomi": "との,-どの",
+        "onyomi": "デン,テン"
+    },
+    {
+        "character": "濃",
+        "meanings": "concentrated, thick, dark, undiluted",
+        "kunyomi": "こい",
+        "onyomi": "ノウ"
+    },
+    {
+        "character": "肩",
+        "meanings": "shoulder",
+        "kunyomi": "かた",
+        "onyomi": "ケン"
+    },
+    {
+        "character": "零",
+        "meanings": "zero, spill, overflow, nothing, cipher",
+        "kunyomi": "ぜろ,こぼす,こぼれる",
+        "onyomi": "レイ"
+    },
+    {
+        "character": "詞",
+        "meanings": "part of speech, words, poetry",
+        "kunyomi": "ことば",
+        "onyomi": "シ"
+    },
+    {
+        "character": "泊",
+        "meanings": "overnight stay, put up at, ride at anchor",
+        "kunyomi": "とまる,とめる",
+        "onyomi": "ハク"
+    },
+    {
+        "character": "甘",
+        "meanings": "sweet, coax, pamper, be content, sugary",
+        "kunyomi": "あまい,あまえる,あまやかす,うまい",
+        "onyomi": "カン"
+    },
+    {
+        "character": "机",
+        "meanings": "desk, table",
+        "kunyomi": "つくえ",
+        "onyomi": "キ"
+    },
+    {
+        "character": "掃",
+        "meanings": "sweep, brush",
+        "kunyomi": "はく",
+        "onyomi": "ソウ,シュ"
+    },
+    {
+        "character": "掘",
+        "meanings": "dig, delve, excavate",
+        "kunyomi": "ほる",
+        "onyomi": "クツ"
+    },
+    {
+        "character": "軟",
+        "meanings": "soft",
+        "kunyomi": "やわらか,やわらかい",
+        "onyomi": "ナン"
+    },
+    {
+        "character": "沈",
+        "meanings": "sink, be submerged, subside, be depressed, aloes",
+        "kunyomi": "しずむ,しずめる",
+        "onyomi": "チン,ジン"
+    },
+    {
+        "character": "凍",
+        "meanings": "frozen, congeal, refrigerate",
+        "kunyomi": "こおる,こごえる,こごる,いてる,しみる",
+        "onyomi": "トウ"
+    },
+    {
+        "character": "灰",
+        "meanings": "ashes, puckery juice, cremate",
+        "kunyomi": "はい",
+        "onyomi": "カイ"
+    },
+    {
+        "character": "恋",
+        "meanings": "romance, in love, yearn for, miss, darling",
+        "kunyomi": "こう,こい,こいしい",
+        "onyomi": "レン"
+    },
+    {
+        "character": "郊",
+        "meanings": "outskirts, suburbs, rural area",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "腰",
+        "meanings": "loins, hips, waist, low wainscoting",
+        "kunyomi": "こし",
+        "onyomi": "ヨウ"
+    },
+    {
+        "character": "踊",
+        "meanings": "jump, dance, leap, skip",
+        "kunyomi": "おどる",
+        "onyomi": "ヨウ"
+    },
+    {
+        "character": "珍",
+        "meanings": "rare, curious, strange",
+        "kunyomi": "めずらしい,たから",
+        "onyomi": "チン"
+    },
+    {
+        "character": "喫",
+        "meanings": "consume, eat, drink, smoke, receive (a blow)",
+        "kunyomi": "のむ",
+        "onyomi": "キツ"
+    },
+    {
+        "character": "溶",
+        "meanings": "melt, dissolve, thaw",
+        "kunyomi": "とける,とかす,とく",
+        "onyomi": "ヨウ"
+    },
+    {
+        "character": "涙",
+        "meanings": "tears, sympathy",
+        "kunyomi": "なみだ",
+        "onyomi": "ルイ,レイ"
+    },
+    {
+        "character": "匹",
+        "meanings": "equal, head, counter for small animals, roll of cloth",
+        "kunyomi": "ひき",
+        "onyomi": "ヒツ"
+    },
+    {
+        "character": "鋭",
+        "meanings": "pointed, sharpness, edge, weapon, sharp, violent",
+        "kunyomi": "するどい",
+        "onyomi": "エイ"
+    },
+    {
+        "character": "塗",
+        "meanings": "paint, plaster, daub, smear, coating",
+        "kunyomi": "ぬる,ぬり,まみれる",
+        "onyomi": "ト"
+    },
+    {
+        "character": "軒",
+        "meanings": "flats, counter for houses, eaves",
+        "kunyomi": "のき",
+        "onyomi": "ケン"
+    },
+    {
+        "character": "叫",
+        "meanings": "shout, exclaim, yell",
+        "kunyomi": "さけぶ",
+        "onyomi": "キョウ"
+    },
+    {
+        "character": "乾",
+        "meanings": "drought, dry, dessicate, drink up, heaven, emperor",
+        "kunyomi": "かわく,かわかす,ほす,ひる,いぬい",
+        "onyomi": "カン,ケン"
+    },
+    {
+        "character": "祈",
+        "meanings": "pray, wish",
+        "kunyomi": "いのる",
+        "onyomi": "キ"
+    },
+    {
+        "character": "汗",
+        "meanings": "sweat, perspire",
+        "kunyomi": "あせ",
+        "onyomi": "カン"
+    },
+    {
+        "character": "湿",
+        "meanings": "damp, wet, moist",
+        "kunyomi": "しめる,しめす,うるおう,うるおす",
+        "onyomi": "シツ,シュウ"
+    },
+    {
+        "character": "咲",
+        "meanings": "blossom, bloom",
+        "kunyomi": "さく,-ざき",
+        "onyomi": "ショウ"
+    },
+    {
+        "character": "召",
+        "meanings": "seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)",
+        "kunyomi": "めす",
+        "onyomi": "ショウ"
+    },
+    {
+        "character": "脂",
+        "meanings": "fat, grease, tallow, lard, rosin, gum, tar",
+        "kunyomi": "あぶら",
+        "onyomi": "シ"
+    },
+    {
+        "character": "肌",
+        "meanings": "texture, skin, body, grain",
+        "kunyomi": "はだ",
+        "onyomi": "キ"
+    },
+    {
+        "character": "鈍",
+        "meanings": "dull, slow, foolish, blunt",
+        "kunyomi": "にぶい,にぶる,にぶ-,なまる,なまくら",
+        "onyomi": "ドン"
+    },
+    {
+        "character": "泥",
+        "meanings": "mud, mire, adhere to, be attached to",
+        "kunyomi": "どろ,なずむ",
+        "onyomi": "デイ,ナイ,デ,ニ"
+    },
+    {
+        "character": "隅",
+        "meanings": "corner, nook",
+        "kunyomi": "すみ",
+        "onyomi": "グウ"
+    },
+    {
+        "character": "辛",
+        "meanings": "spicy, bitter, hot, acrid",
+        "kunyomi": "からい,つらい,-づらい,かのと",
+        "onyomi": "シン"
+    },
+    {
+        "character": "磨",
+        "meanings": "grind, polish, scour, improve, brush (teeth)",
+        "kunyomi": "みがく,する",
+        "onyomi": "マ"
+    },
+    {
+        "character": "姓",
+        "meanings": "surname",
+        "onyomi": "セイ,ショウ"
+    },
+    {
+        "character": "筒",
+        "meanings": "cylinder, pipe, tube, gun barrel, sleeve",
+        "kunyomi": "つつ",
+        "onyomi": "トウ"
+    },
+    {
+        "character": "粒",
+        "meanings": "grains, drop, counter for tiny particles",
+        "kunyomi": "つぶ",
+        "onyomi": "リュウ"
+    },
+    {
+        "character": "畳",
+        "meanings": "tatami mat, counter for tatami mats, fold, shut up, do away with",
+        "kunyomi": "たたむ,たたみ,かさなる",
+        "onyomi": "ジョウ,チョウ"
+    },
+    {
+        "character": "膚",
+        "meanings": "skin, body, grain, texture, disposition",
+        "kunyomi": "はだ",
+        "onyomi": "フ"
+    },
+    {
+        "character": "濯",
+        "meanings": "laundry, wash, pour on, rinse",
+        "kunyomi": "すすぐ,ゆすぐ",
+        "onyomi": "タク"
+    },
+    {
+        "character": "塔",
+        "meanings": "pagoda, tower, steeple",
+        "onyomi": "トウ"
+    },
+    {
+        "character": "沸",
+        "meanings": "seethe, boil, ferment, uproar, breed",
+        "kunyomi": "わく,わかす",
+        "onyomi": "フツ"
+    },
+    {
+        "character": "菓",
+        "meanings": "candy, cakes, fruit",
+        "onyomi": "カ"
+    },
+    {
+        "character": "帽",
+        "meanings": "cap, headgear",
+        "kunyomi": "ずきん,おおう",
+        "onyomi": "ボウ,モウ"
+    },
+    {
+        "character": "枯",
+        "meanings": "wither, die, dry up, be seasoned",
+        "kunyomi": "かれる,からす",
+        "onyomi": "コ"
+    },
+    {
+        "character": "涼",
+        "meanings": "refreshing, nice and cool",
+        "kunyomi": "すずしい,すずむ,すずやか,うすい,ひやす,まことに",
+        "onyomi": "リョウ"
+    },
+    {
+        "character": "舟",
+        "meanings": "boat, ship",
+        "kunyomi": "ふね,ふな-,-ぶね",
+        "onyomi": "シュウ"
+    },
+    {
+        "character": "符",
+        "meanings": "token, sign, mark, tally, charm",
+        "onyomi": "フ"
+    },
+    {
+        "character": "憎",
+        "meanings": "hate, detest",
+        "kunyomi": "にくむ,にくい,にくらしい,にくしみ",
+        "onyomi": "ゾウ"
+    },
+    {
+        "character": "肯",
+        "meanings": "agreement, consent, comply with",
+        "kunyomi": "がえんじる",
+        "onyomi": "コウ"
+    },
+    {
+        "character": "燥",
+        "meanings": "parch, dry up",
+        "kunyomi": "はしゃぐ",
+        "onyomi": "ソウ"
+    },
+    {
+        "character": "畜",
+        "meanings": "livestock, domestic fowl and animals",
+        "onyomi": "チク"
+    },
+    {
+        "character": "挟",
+        "meanings": "pinch, between",
+        "kunyomi": "はさむ,はさまる,わきばさむ,さしはさむ",
+        "onyomi": "キョウ,ショウ"
+    },
+    {
+        "character": "曇",
+        "meanings": "cloudy weather, cloud up",
+        "kunyomi": "くもる",
+        "onyomi": "ドン"
+    },
+    {
+        "character": "滴",
+        "meanings": "drip, drop",
+        "kunyomi": "しずく,したたる",
+        "onyomi": "テキ"
+    },
+    {
+        "character": "伺",
+        "meanings": "pay respects, visit, ask, inquire, question, implore",
+        "kunyomi": "うかがう",
+        "onyomi": "シ"
+    }
+]

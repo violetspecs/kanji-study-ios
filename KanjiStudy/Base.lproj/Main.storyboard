@@ -1,24 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13122.16" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="nzb-ls-fln">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.12"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="sbY-8k-gGh">
+            <objects>
+                <navigationController id="nzb-ls-fln" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="6ej-YC-eCn">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="0F1-wc-fPA"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="IKj-nC-660" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1596" y="74"/>
+        </scene>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="KanjiStudy" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" xcode11CocoaTouchSystemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="24" translatesAutoresizingMaskIntoConstraints="NO" id="oDF-Mz-y9p">
+                                <rect key="frame" x="136" y="337" width="142" height="222"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Select quiz" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hgD-Bq-Jhz">
+                                        <rect key="frame" x="0.0" y="0.0" width="142" height="36"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rN4-E7-7GP">
+                                        <rect key="frame" x="0.0" y="60" width="142" height="38"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="くんよみ">
+                                            <fontDescription key="titleFontDescription" type="system" pointSize="20"/>
+                                        </buttonConfiguration>
+                                        <connections>
+                                            <segue destination="SV3-mg-RZL" kind="show" identifier="ShowHiraganaQuizSegue" id="98L-74-6iw"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fak-RG-XtS">
+                                        <rect key="frame" x="0.0" y="122" width="142" height="38"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="オンヨミ">
+                                            <fontDescription key="titleFontDescription" type="system" pointSize="20"/>
+                                        </buttonConfiguration>
+                                        <connections>
+                                            <segue destination="SV3-mg-RZL" kind="show" identifier="ShowKatakanaQuizSegue" id="Tu2-Xz-7xe"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pxF-jW-2rA">
+                                        <rect key="frame" x="0.0" y="184" width="142" height="38"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="English">
+                                            <fontDescription key="titleFontDescription" type="system" pointSize="20"/>
+                                        </buttonConfiguration>
+                                        <connections>
+                                            <segue destination="SV3-mg-RZL" kind="show" identifier="ShowEnglishQuizSegue" id="BDW-i1-PFU"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="oDF-Mz-y9p" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="M36-Nm-jR4"/>
+                            <constraint firstItem="oDF-Mz-y9p" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="rCC-Ra-KbR"/>
+                        </constraints>
                     </view>
+                    <navigationItem key="navigationItem" id="tNY-wD-aLC"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="-759" y="90"/>
+        </scene>
+        <!--Quiz View Controller-->
+        <scene sceneID="z9w-mx-4Wy">
+            <objects>
+                <viewController id="SV3-mg-RZL" customClass="QuizViewController" customModule="KanjiStudy" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Eea-m4-W20">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="H6R-f2-6On">
+                                <rect key="frame" x="0.0" y="238" width="414" height="420"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="漢" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hva-od-wDm">
+                                        <rect key="frame" x="177" y="0.0" width="60.5" height="72"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="60"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p59-un-fJ0">
+                                        <rect key="frame" x="0.0" y="80" width="414" height="59.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <state key="normal" title="Answer1"/>
+                                        <buttonConfiguration key="configuration" style="tinted" title="Answer1">
+                                            <fontDescription key="titleFontDescription" type="system" pointSize="16"/>
+                                            <directionalEdgeInsets key="contentInsets" top="20" leading="0.0" bottom="20" trailing="0.0"/>
+                                        </buttonConfiguration>
+                                        <connections>
+                                            <action selector="answer1Selected:" destination="SV3-mg-RZL" eventType="touchUpInside" id="w7a-4t-gS5"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YLw-U6-vZC">
+                                        <rect key="frame" x="0.0" y="147.5" width="414" height="59.5"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="tinted" title="Answer2">
+                                            <fontDescription key="titleFontDescription" type="system" pointSize="16"/>
+                                            <directionalEdgeInsets key="contentInsets" top="20" leading="0.0" bottom="20" trailing="0.0"/>
+                                        </buttonConfiguration>
+                                        <connections>
+                                            <action selector="answer2Selected:" destination="SV3-mg-RZL" eventType="touchUpInside" id="2Ki-Pd-SDU"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tcn-p6-wMK">
+                                        <rect key="frame" x="0.0" y="215" width="414" height="59.5"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="tinted" title="Answer3">
+                                            <fontDescription key="titleFontDescription" type="system" pointSize="16"/>
+                                            <directionalEdgeInsets key="contentInsets" top="20" leading="0.0" bottom="20" trailing="0.0"/>
+                                        </buttonConfiguration>
+                                        <connections>
+                                            <action selector="answer3Selected:" destination="SV3-mg-RZL" eventType="touchUpInside" id="7FL-Vb-NYE"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pr1-9U-ogK">
+                                        <rect key="frame" x="0.0" y="282.5" width="414" height="59.5"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="tinted" title="Answer4">
+                                            <fontDescription key="titleFontDescription" type="system" pointSize="16"/>
+                                            <directionalEdgeInsets key="contentInsets" top="20" leading="0.0" bottom="20" trailing="0.0"/>
+                                        </buttonConfiguration>
+                                        <connections>
+                                            <action selector="answer4Selected:" destination="SV3-mg-RZL" eventType="touchUpInside" id="atn-yS-gGA"/>
+                                        </connections>
+                                    </button>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="siK-RW-QKP">
+                                        <rect key="frame" x="204.5" y="350" width="5" height="24"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vom-e1-U4H">
+                                        <rect key="frame" x="155" y="382" width="104" height="38"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="tinted" title="Try again">
+                                            <fontDescription key="titleFontDescription" type="system" pointSize="20"/>
+                                        </buttonConfiguration>
+                                        <connections>
+                                            <action selector="tryAgainButtonTapped:" destination="SV3-mg-RZL" eventType="touchUpInside" id="rHe-k6-bI1"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="tcn-p6-wMK" firstAttribute="leading" secondItem="H6R-f2-6On" secondAttribute="leading" id="13b-ro-2md"/>
+                                    <constraint firstAttribute="trailing" secondItem="p59-un-fJ0" secondAttribute="trailing" id="6by-aY-uhS"/>
+                                    <constraint firstItem="p59-un-fJ0" firstAttribute="leading" secondItem="H6R-f2-6On" secondAttribute="leading" id="BoK-29-OOF"/>
+                                    <constraint firstAttribute="trailing" secondItem="YLw-U6-vZC" secondAttribute="trailing" id="FrJ-m1-Bji"/>
+                                    <constraint firstAttribute="trailing" secondItem="tcn-p6-wMK" secondAttribute="trailing" id="bEx-Kg-aDe"/>
+                                    <constraint firstItem="YLw-U6-vZC" firstAttribute="leading" secondItem="H6R-f2-6On" secondAttribute="leading" id="chw-Uw-ueY"/>
+                                    <constraint firstAttribute="trailing" secondItem="pr1-9U-ogK" secondAttribute="trailing" id="kh3-mv-dfl"/>
+                                    <constraint firstItem="pr1-9U-ogK" firstAttribute="leading" secondItem="H6R-f2-6On" secondAttribute="leading" id="rf6-EF-ihr"/>
+                                </constraints>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6iX-TC-EY8"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="6iX-TC-EY8" firstAttribute="trailing" secondItem="H6R-f2-6On" secondAttribute="trailing" id="4yq-vo-9vG"/>
+                            <constraint firstItem="H6R-f2-6On" firstAttribute="centerY" secondItem="Eea-m4-W20" secondAttribute="centerY" id="aOz-8y-jfQ"/>
+                            <constraint firstItem="H6R-f2-6On" firstAttribute="leading" secondItem="6iX-TC-EY8" secondAttribute="leading" id="hb7-pA-pBW"/>
+                            <constraint firstItem="H6R-f2-6On" firstAttribute="centerX" secondItem="Eea-m4-W20" secondAttribute="centerX" id="lOb-Kg-htL"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="uM6-cm-KFa"/>
+                    <connections>
+                        <outlet property="answer1Button" destination="p59-un-fJ0" id="9KN-88-HAQ"/>
+                        <outlet property="answer2Button" destination="YLw-U6-vZC" id="KY3-Tt-S0N"/>
+                        <outlet property="answer3Button" destination="tcn-p6-wMK" id="nHD-YM-ba0"/>
+                        <outlet property="answer4Button" destination="pr1-9U-ogK" id="dDK-8O-xlF"/>
+                        <outlet property="isCorrectLabel" destination="siK-RW-QKP" id="og8-9W-ID0"/>
+                        <outlet property="kanjiLabel" destination="hva-od-wDm" id="NNr-af-jXi"/>
+                        <outlet property="tryAgainButton" destination="Vom-e1-U4H" id="BbW-Yu-6LN"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6ty-46-Mfe" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-25" y="90"/>
         </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="98L-74-6iw"/>
+    </inferredMetricsTieBreakers>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
 </document>
